@@ -51,13 +51,17 @@ While the model performs exceptionally, key limitations exist:
 
 # Images of Results
 ## Daily Earthquake Occurance
-![Daily_Earthquake_Occurance](https://github.com/user-attachments/assets/435c28a1-8933-4ed0-900d-b174c8561671)
+![Daily_Earthquake_Occurance](https://github.com/user-attachments/assets/08998fec-9753-460e-adc7-cf739cd059c7)
+
 
 ## PCA
-![PCA](https://github.com/user-attachments/assets/cd7c8bc9-8274-4be1-9b95-525eb884b2df)
+![PCA](https://github.com/user-attachments/assets/d4766d48-c802-49e9-a03d-53d2889aac0a)
+
 
 ## Feature Importance
-![Feature_Importance](https://github.com/user-attachments/assets/354d727b-bc4e-4020-9d5c-a98e13ebc684)
+![PCA](https://github.com/user-attachments/assets/f7b3df52-d97e-41e8-a736-6f04119da5cf)
+
 
 ## Predicted Earthquake Probability vs Actual Events
-![Predicted_Earthquake_Probability_vs_Actual_Events](https://github.com/user-attachments/assets/ae6a76fb-28a7-4e0f-bb73-a8c17b215942)
+![Predicted_Earthquake_Probability_vs_Actual_Events](https://github.com/user-attachments/assets/e56af1ac-51e7-4fcc-88ee-2ea521db4bc2)
+
