@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Earthquake_pred_model", "Earthquake_pred_model.pyproj", "{A46400AE-CCA0-4E60-9389-2195F7C313CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A46400AE-CCA0-4E60-9389-2195F7C313CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46400AE-CCA0-4E60-9389-2195F7C313CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6423BF5-423B-4E12-825B-B6D90A2C49FA}
+	EndGlobalSection
+EndGlobal

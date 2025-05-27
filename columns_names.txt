@@ -1,0 +1,9 @@
+quake_count
+magnitude
+depth
+latitude
+longitude
+lag_1_occ
+lag_7_occ
+lag_14_occ
+has_eq
